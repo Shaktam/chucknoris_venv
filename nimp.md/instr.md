@@ -18,8 +18,20 @@ python -m venv venv_joke_python
 refer[link](https://docs.python.org/3/library/venv.html)
 to check venv is activated  by clicking ina botton window ```venv_joke_pyth``` to change version or ```source venv_joke_pyth/bin/activate```
 
-```python3 joke.py
+````python3 joke.py
 pip3 install boto3 
 pip3 install reqests
-```
+
+credentials
+
+python3 -m venv venv_joke_pyth
+source activate venv_joke_pyth/bin/activate````
+
+create new file."""requirement.txt"""
+ enter ```requests == 2.28.1
+botot3== 1.24.94```
+
+
+pip install -r requirments.txt
+pip install --upgrade pip
 
