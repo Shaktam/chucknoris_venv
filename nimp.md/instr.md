@@ -38,4 +38,13 @@ zip source.zip joke.py
 zip source.zip chuck_noris-api.py
 zip -r source.zip. requiremnet.zip
 zip -r source.zip. (make zip all files in folder)
+**  ref [link](https://neuefische-students.slack.com/files/U010JB81H9B/F047DCPMAKC/19.10.venv.requirements.mp4)
 
+** ref[link](https://neuefische-students.slack.com/files/U010JB81H9B/F046Z2PLDP1/19.10.zip.mp4)
+
+
+** ref[link]https://neuefische-students.slack.com/files/U010JB81H9B/F04792D662Z/20.10.codewars.mp4
+
+** ref[link]https://neuefische-students.slack.com/files/U010JB81H9B/F046XEB607R/20.10.repeat.rest.python.mp4
+
+** [link](https://neuefische-students.slack.com/files/U010JB81H9B/F047QKYG0RF/20.10.boto3.ec2.mp4)
