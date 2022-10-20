@@ -34,4 +34,8 @@ botot3== 1.24.94```
 
 pip install -r requirments.txt
 pip install --upgrade pip
+zip source.zip joke.py
+zip source.zip chuck_noris-api.py
+zip -r source.zip. requiremnet.zip
+zip -r source.zip. (make zip all files in folder)
 

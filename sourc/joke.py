@@ -5,7 +5,7 @@ from s3_bucket import upload_joke_s3
 joke_data_to_save= get_newjoke()
 upload_joke_s3(joke_data_to_save)"""
 
-from chucknoris_api import get_newjoke
+from sourc.chucknoris_api import get_newjoke
 from s3_bucket import upload_joke_s3
 
 while True:
